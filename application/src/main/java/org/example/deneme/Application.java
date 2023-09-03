@@ -1,5 +1,7 @@
 package org.example.deneme;
 
+import org.example.deneme.data.StudentWithGetter;
+
 public class Application {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.deneme;
+package org.example.deneme.data;
 
 import org.example.plugin.getter.Getter;
 
